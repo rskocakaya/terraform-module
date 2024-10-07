@@ -16,7 +16,7 @@ variable "vnet_name" {
 
 variable "subscription_id" {
   description = "The Azure subscription ID"
-  default     = "018d6d9b-67b7-47c4-a661-df8fd9bb0e64"
+  default     = "**************" #DO NOT forget to change that
 }
 
 variable "rg_name" {
